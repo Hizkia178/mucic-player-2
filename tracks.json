@@ -1,0 +1,26 @@
+[
+  {
+    "name": "DJ 8 LETTERS FVNKY NIGHT 2019",
+    "artist": "RAWI JAVAR",
+    "path": "songs/DJ 8 LETTERS.mp3",
+    "cover": "images/cover 1.png"
+  },
+  {
+    "name": "ONE OF GIRLS",
+    "artist": "The Weeknd, JENNIE, Lily-Rose Depp",
+    "path": "songs/ONE OF GIRLS.mp3",
+    "cover": "images/cover2.jpg"
+  },
+  {
+    "name": "NIGHT CHANGES",
+    "artist": "ONE DIRECTION",
+    "path": "songs/One Direction - Night Changes.mp3",
+    "cover": "images/cover3.jpg"
+  },
+  {
+    "name" :"8 LETTERS",
+    "artist" :"WHY DON'T WE",
+    "path": "songs/8 Letters - Why Don't We [Official Music Video].mp3",
+    "cover": "images/cover1.jpg"
+  }
+]
